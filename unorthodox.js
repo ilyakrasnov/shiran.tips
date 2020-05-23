@@ -10,7 +10,7 @@ const raw_questions = [
   'Which parts did you identify with the most?',
   'Do you think the show is realistic? Which parts yes, and which not?',
   'What did you feel after finishing the show?',
-  'Where is the boundary between conservatism and fanatism?'
+  'Where is the boundary between conservatism and fanatism?',
   'Which boundaries did you cross in your own life?',
   'What is your favorite scene?',
   'Who is your favorite character?',
