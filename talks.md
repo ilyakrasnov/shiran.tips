@@ -4,9 +4,26 @@ title: שיחות וסדנאות
 permalink: /talks
 ---
 
+
+#### Creating Opportunities - Making Your Own Luck - May 26, 2020
+
+* מה זה מזל בנוגע לקריירה, וממה הוא מורכב?
+* למה ״תעבדי במה שאת אוהבת/ ללכת אחרי התשוקות״ זו עיצה ממש גרועה
+* מה סטיב ג׳ובס אמר ולא עשה
+* איך האדם הקדמון מלמד אותנו על התפתחות מקצועית
+* מה הskill הכי חשוב במאה ה21 
+* ומה צריך לעשות כדי שהמזל ירדוף אחרייך
+
+
+<iframe src="https://www.slideshare.net/ShiranKrasnov/slideshelf" width="760px" height="570px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+
+<br>
+<br>
+
 #### Intro to Data Analysis - Sep 23, 2019
 
 Intro into the day to day job of a Data Analyst.
+
 
 * The Big Data Problem 
 * KPI's 
