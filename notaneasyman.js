@@ -9,7 +9,7 @@ const raw_questions = [
   'Which character did you most identify with?',
   'The makeover, first day in the new world: fashion, beauty, cosmetics and gender.',
   'What is your favorite scene?',
-  'Where is the line between accepting help (let me lift your heavy bag) and independence?'
+  'Where is the line between accepting help (let me lift your heavy bag) and independence?',
   'If not men are on top, women are on top. Is there an option where neither is the case? Does it need to be that way?',
   'What was the funniest scene?',
   'Feminist and Masculist. What do those words mean for you?',
