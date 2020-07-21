@@ -5,16 +5,18 @@ const btn = document.querySelector("button");
 const question = document.querySelector(".card-jobtitle");
 
 const raw_questions = [
-  'What message did you get from the show for your own life?',
-  '"A lake is just a lake". What do you think about it?',
-  'Which parts did you identify with the most?',
-  'Do you think the show is realistic? Which parts yes, and which not?',
-  'What did you feel after finishing the show?',
-  'Where is the boundary between conservatism and fanatism?',
-  'Which boundaries did you cross in your own life?',
+  'Who runs the world? Is it really similar to the movie?',
+  'Which character did you most identify with?',
+  'The makeover, first day in the new world: fashion, beauty, cosmetics and gender.',
   'What is your favorite scene?',
-  'Who is your favorite character?'
+  'Where is the line between accepting help (let me lift your heavy bag) and independence?'
+  'If not men are on top, women are on top. Is there an option where neither is the case? Does it need to be that way?',
+  'What was the funniest scene?',
+  'Feminist and Masculist. What do those words mean for you?',
+  'What is the purpose of provocation during demonstrations? Is it a must? Does it delude the conversation?',
+  'We’re the strong sex and hence we give birth and you take care of the child. Thoughts?'
 ];
+
 
 let shuffled_questions = [];
 
@@ -33,7 +35,7 @@ const handleButtonClick = (e) => {
   const new_q = shuffled_questions[current_q % (shuffled_questions.length-1)];   
   question.innerText = new_q;
   current_q += 1;
-  btn.innerText = "PICK NEXT QUESTION";
+  btn.innerText = "NEXT QUESTION";
 };
 
 
