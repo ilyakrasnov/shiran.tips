@@ -18,7 +18,7 @@ const raw_questions = [
 ];
 
 
-let shuffled_questions = [];
+let shuffled_questions = raw_questions;
 
 const shuffle = (a) => {
     for (let i = a.length - 1; i > 0; i--) {
@@ -41,5 +41,5 @@ const handleButtonClick = (e) => {
 
 btn.addEventListener("click", handleButtonClick);
 
-shuffled_questions = shuffle(raw_questions);
+// shuffled_questions = shuffle(raw_questions);
 // handleButtonClick();
