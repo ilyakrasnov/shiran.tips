@@ -32,7 +32,7 @@ intro_paragraph: Churn Rate המטריקה השניה בסדרה על מטריק
 סיבה שניה, המספר בו נשתמש בחישוב כ"מספר הכולל של הלקוחות" (במכנה) יהיה שונה בהרבה בין תחילת החודש לסופו.
 
 
-*Photo by Eliud Gil Samaniego*
+*Photo by Joseph Frank *
 
 
 
