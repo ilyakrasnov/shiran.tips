@@ -2,7 +2,7 @@
 layout: post
 title: Churn Rate
 author: shiran
-date: 2020-08-09 17:49:25
+date: 2020-08-08 17:49:25
 intro_paragraph: Churn Rate המטריקה השניה בסדרה על מטריקות SaaS
 image: upload/churn.jpg
 ---
