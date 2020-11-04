@@ -2,7 +2,7 @@
 layout: post
 title: הקדמה לפוסטים הבאים - Data Modeling
 author: shiran
-date: 2020-11-03 19:40:38
+date: 2020-11-03 07:40:38
 intro_paragraph: על מידול נתונים או איך לבנות תשתיות נכונות
 image: uploads/Sketch.jpg
 ---
