@@ -38,4 +38,6 @@ date: 2020-11-12 06:18:57
 
 כמובן שאני מזכירה שזה שלב ראשון מתוך שלושה, לכן את התרשים הבא נעבה בפוסטים הבאים:
 
-<img src="/assets/img/uploads/total.jpeg" style="width: 100%"/>
+<img src="/assets/img/uploads/Sales.png" style="width: 100%"/>
+
+*Photo by Green Chameleon*
