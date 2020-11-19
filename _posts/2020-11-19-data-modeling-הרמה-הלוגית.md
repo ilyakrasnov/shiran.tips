@@ -13,3 +13,8 @@ image: uploads/Level2.jpg
 כך לדוגמה, בטבלת המוצרים הישות שם המוצר תהיה מסוג טקסט - String, בעוד הישות מחיר המוצר תהיה מסוג מספרי - Float, ועל זו הדרך.
 
 שוב אני מזכירה שזה שלב שני מתוך שלושה, ולכן נשלים את התרשים בפוסט הבא:
+
+
+<img src="/assets/img/uploads/Sales.png" style="width: 100%"/>
+
+*Photo by Green Chameleon*
