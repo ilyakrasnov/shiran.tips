@@ -4,7 +4,7 @@ title: "Data Modeling: הרמה הלוגית"
 author: shiran
 date: 2020-11-19 07:36:26
 intro_paragraph: שלב שני מתוך שלושה ביצירת מודל נתונים
-image: uploads/analystit.jpg
+image: uploads/Level2.jpg
 ---
 לאחר שיצרנו בפוסט הקודם מבנה בסיסי של מודל הנתונים, אנו נדרשים להוסיף נדבך נוסף לרכיבי מודל הנתונים הרעיוני. 
 
