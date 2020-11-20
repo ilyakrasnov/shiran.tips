@@ -15,6 +15,6 @@ image: uploads/Level2.jpg
 שוב אני מזכירה שזה שלב שני מתוך שלושה, ולכן נשלים את התרשים בפוסט הבא:
 
 
-<img src="/assets/img/uploads/Sales.png" style="width: 100%"/>
+<img src="/assets/img/uploads/Sales2.png" style="width: 100%"/>
 
 *Photo by Green Chameleon*
