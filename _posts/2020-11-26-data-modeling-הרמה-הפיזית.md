@@ -2,7 +2,7 @@
 layout: post
 title: "Data Modeling: הרמה הפיזית"
 author: shiran
-date: 2020-11-26 17:51:59
+date: 2020-11-25 17:51:59
 intro_paragraph: שלב שלישי ואחרון ליצירת מודל נתונים
 image: uploads/Level3.jpg
 ---
