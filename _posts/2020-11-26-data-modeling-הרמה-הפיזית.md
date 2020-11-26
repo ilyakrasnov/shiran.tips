@@ -16,5 +16,6 @@ image: uploads/Level3.jpg
 
 מודל הנתונים מכיל קשרים בין טבלאות על ידי הגדרת מפתחות ראשיים וזרים, תצוגות, אינדקסים, פרופילי גישה והרשאות וכו'.
 
+<img src="/assets/img/uploads/SalesF.png" style="width: 100%"/>
 
 *Photo by Alvaro Reyes*
