@@ -5,7 +5,7 @@ author: shiran
 date: 2020-08-08 17:49:25
 intro_paragraph: Churn Rate המטריקה הרביעית בסדרה על מטריקות SaaS
 image: uploads/churn.jpg
-categories: "#SaaSmetrics"
+categories: "#saasmetrics"
 ---
 **Churn Rate**
 
