@@ -18,6 +18,21 @@ navigation:
     url: /about
   - title: Talks
     url: /talks
+  - title: Data Interview
+    url: /interviews
+
+
+collections:
+  interviews:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "interviews"
+    values:
+      layout: "interview"
 
 social:
   linkedin: shiran-krasnov
