@@ -13,25 +13,16 @@ layout: default
   <h3 style="text-align: center;">{{ page.position }} at {{ page.company}}</h3>
 
   
-  {{ content }}
 
-  {% for interview in site.data.data-interviews %}
+  {% for hash in site.data[page.file] %}
 
-
-      {% for hash in interview %}
-
-  
 <div style="margin-bottom: 15px">
   <div style="font-weight: 600">{{ hash[0] }}</div>
   <div style="font-style: italic;">{{ hash[1] }}</div>
 </div>
 
-  
-      {% endfor %}
 
-    
-
-  {% endfor %}
+ {% endfor %}  
 
 <div style="direction: rtl">
   
