@@ -8,3 +8,4 @@ package-lock.*
 # Local Netlify folder
 .netlify
 .DS_Store
+vendor/
