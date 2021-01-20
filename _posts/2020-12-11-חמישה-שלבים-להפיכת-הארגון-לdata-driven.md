@@ -4,7 +4,7 @@ title: Data Driven בחמישה שלבים
 author: shiran
 date: 2020-12-10 05:50:12
 intro_paragraph: "חמישה שלבים להפיכת ארגון לData-Driven:"
-image: datadriven2/analystit.jpg
+image: uploads/datadriven2.jpg
 categories: "#datadriven"
 ---
 1. כל שינוי תרבותי צריך להתחיל בהבנה של התרבות או האמונה הקיימת עוד בטרם מנסים לשנותה. **מרכיב מרכזי בפיתוח תרבות מונחת נתונים הוא שינוי האופן בו אנשים חושבים על נתונים**  <br>
