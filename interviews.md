@@ -7,10 +7,10 @@ title: Data Interviews
   <div  style="direction: ltr">
   	
   
-  <h2>
+  <h3>
     <a href="{{ interview.url }}">
       {{ interview.name }} - {{ interview.position }} at {{ interview.company }}
     </a>
-  </h2>
+  </h3><br>
 </div>
 {% endfor %}
