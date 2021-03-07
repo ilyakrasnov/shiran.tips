@@ -4,6 +4,28 @@ title: שיחות וסדנאות
 permalink: /talks
 ---
 
+#### When Data Bias Gets Real - Feb 24, 2021
+
+* מה הסוגים הנפוצים של הטיות בניתוח נתונים 
+* למה הבעיה רק הופכת גרועה יותר עם השנים
+* ו-איך להימנע או לכל הפחות לצמצם את התופעה
+
+בנוסף, נדבר על:
+* מה הקשר בין הטלפונים שלנו לאיך אנחנו נראים על הבוקר
+* איך אנליסט טוב אחד הציל מאות טייסים
+* מה הקשר בין אכילת מרגרינה לגירושין 
+* ואיך פסטה שיבשה את האלגוריתמים של טיק-טוק
+
+הרצאה פרקטית עם דוגמאות מהעבר וההווה, מהספרים והחיים. מומלצת לכל העוסקים בדאטה
+
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
+
+<script async class="speakerdeck-embed" data-id="e980bf864ce64e5580c0359680204c69" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script></div>
+<br>
+<br>
+
+
 
 #### Creating Opportunities - Making Your Own Luck - May 26, 2020
 
