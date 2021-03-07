@@ -1,5 +1,5 @@
 {
-    " ": "Dr. Sasson is also a lecturer at the IDC Herzliya.",
+    " ": "Dr. Sasson is also a lecturer at the IDC Herzliya and blogs under <a href=\"https://www.datascienceeconomics.com/\">https://www.datascienceeconomics.com/</a>.",
     "": "<span style=\"font-size: 85%\">Disclaimer: the opinions expressed in the interview are entirely those of the interviewee.</span>",
     "What is your credo/ your \"WHY\" regarding data?": "Without Data - You are just another person with an opinion, but without an opinion - you are just another person with Data.",
     "What are your fields of interest?": "The intersection between Data Science and Economics. I think there are lots of benefits of Economic thinking and causal inference that should be integrated in Machine Learning and Product Design, but the economics profession has only started to adapt into this new world of big data and user-centric development (which is sometimes a little frustrating for me, since I know that Economists invented data-driven decision making and the first big datasets..). I gave a talk about the downside of Economic approach in <a href=\"https://www.youtube.com/watch?v=aqNi5eiyEFo\">here</a> and will be giving a talk about the good news for Economists who are starting to keep up the pace in Data and ML at WSDM 2021 on March 8th (like will be added later)",
