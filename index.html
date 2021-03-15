@@ -5,7 +5,10 @@ title: Shiran Tips
 
 <div class="home" id="home">
   <h1 class="pageTitle"></h1>
+
   <ul class="posts noList">
+  {% include hello.html %}
+    
     {% for post in paginator.posts %}
       <li>
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
