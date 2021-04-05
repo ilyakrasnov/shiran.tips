@@ -2,7 +2,7 @@
 layout: post
 title: Data Driven תפקיד האנליסט.ית בתהליך
 author: shiran
-date: 2021-03-08 05:50:12
+date: 2021-03-25 05:50:12
 image: uploads/datadriven3.jpg
 categories: "#datadriven"
 ---
