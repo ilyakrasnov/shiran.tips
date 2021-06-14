@@ -3,6 +3,8 @@ layout: post
 title: Data Driven תפקיד האנליסט.ית בתהליך
 author: shiran
 date: 2021-03-25 05:50:12
+intro_paragraph: מה התפקיד שלי כאנליסטית בתהליך הזה וכיצד אני מהווה גורם מפתח
+  בהתנהלותו?[](https://shiran.tips/blog/data-driven-2/)
 image: uploads/datadriven3.jpg
 categories: "#datadriven"
 ---
