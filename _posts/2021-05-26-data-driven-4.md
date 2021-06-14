@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Driven 4
+title: Data Driven תפקיד האנליסט.ית מנקודת המבט של הצוותים מולם אני עובדת
 author: shiran
 date: 2021-05-26 16:35:52
 ---
