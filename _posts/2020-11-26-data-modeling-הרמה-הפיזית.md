@@ -5,7 +5,7 @@ author: shiran
 date: 2020-11-25 17:51:59
 intro_paragraph: שלב שלישי ואחרון ליצירת מודל נתונים
 image: uploads/Level3.jpg
-categories: "#datamodeling"
+tags: datamodeling
 ---
 
 בפוסטים הקודמים יצרנו מבנה בסיסי של מודל נתונים, המורכב מישויות ומהתכונות והסוגים שלהן. כעת, נדייק ונוסיף פרטים על מנת להשלים את המודל.

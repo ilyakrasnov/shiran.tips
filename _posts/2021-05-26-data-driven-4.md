@@ -6,7 +6,7 @@ date: 2021-06-01 16:35:52
 intro_paragraph: מה הצוותים מולם אני עובדת חווים בתוך התהליך הזה. כיצד התהליך
   עוזר להם בעבודתם השוטפת, איך הם חווים את תפקידי כאנליסטית מצידם?
 image: uploads/reflection.jpg
-categories: "#datadriven"
+tags: datadriven
 ---
 **בפוסטים הקודמים דיברנו על**
 

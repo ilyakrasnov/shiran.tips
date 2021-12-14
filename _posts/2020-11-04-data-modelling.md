@@ -5,7 +5,7 @@ author: shiran
 date: 2020-11-02 07:40:38
 intro_paragraph: על מידול נתונים או איך לבנות תשתיות נכונות
 image: uploads/Sketch.jpg
-categories: "#datamodeling"
+tags: datamodeling
 ---
 **מידול נתונים** הוא תהליך יצירת מודל נתונים לאחסון הנתונים במסד נתונים.
 
