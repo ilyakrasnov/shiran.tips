@@ -11,6 +11,16 @@ permalink: /talks
 <br>
 <br>
 
+
+#### Women in Tech - When Data Bias Gets Real - Oct 10, 2021
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/71hYqy7Xo0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<br>
+<br>
+
 #### פאנל אנליסטיות - May 5, 2021
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QdpnjgK3yxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
