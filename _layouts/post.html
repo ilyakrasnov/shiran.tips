@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+
+
 <div class="post">
   {% if page.image %}
     <div class="featuredImage" style="text-align: center;">
@@ -10,6 +12,18 @@ layout: default
   <h1 class="postTitle">{{ page.title }}</h1>
   <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
 
+
+
+
+<!-- {% for tag in page.tags %}
+  <a href="#{{ tag | slugify }}"> {{ tag }} </a>
+{% endfor %}
+
+ -->
+
+{% for tag in page.tags %}
+      <a href="/tag/{{ tag | slugify: 'pretty' }}/">{{ tag }}# </a>
+{% endfor %}
 
  <p>{% if page.intro_paragraph %}{{ page.intro_paragraph }}{% endif %}</p>
   
@@ -38,5 +52,4 @@ layout: default
     {% endif %} 
   </div>
 </div>
-
 

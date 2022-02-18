@@ -8,3 +8,23 @@
 מטרת הבלוג היא לאפשר לכל העוסקים.ות בדאטה ללמוד ולהעמיק בנושאים שונים בתחום כדי להתמקצע. קריאה מהנה!
 <br>
 <br>
+
+<!-- <h1>Tag Cloud</h1> -->
+{% assign tags = site.tags | sort %}
+<!-- {% for tag in tags %}
+ <span class="site-tag">
+    <a href="/tag/{{ tag | first | slugify: 'pretty' }}/"
+        style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+            {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
+    </a>
+</span>
+{% endfor %}
+ -->
+
+{% for tag in tags %}
+      <a href="/tag/{{ tag | first | slugify: 'pretty' }}/"
+        style="margin-left: 10px; margin-right: 10px;"
+        >
+            {{ tag[0] | replace:'-', ' ' }}({{ tag | last | size }})
+    </a>
+{% endfor %}
