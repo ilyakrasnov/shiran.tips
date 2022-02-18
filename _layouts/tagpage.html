@@ -32,7 +32,7 @@ The following part removes dulpicated tags and invalid tags like blank tag.
 
 {% for tag in tags %}
  {% if page.tag == tag %}
-  <h2 id="{{ tag | slugify }}">{{ tag }}</h2>
+  <h2 id="{{ tag | slugify }}">{{ tag }}#</h2>
 
 
   <ul class="posts noList">
