@@ -4,6 +4,20 @@ title: שיחות וסדנאות
 permalink: /talks
 ---
 
+#### איך לעבוד עם KPIs - Jan 9, 2022
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7dUs6V3qstbhEXbmLwo0Au?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+<br>
+<br>
+
+#### פאנל אנליסטיות - May 5, 2021
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QdpnjgK3yxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+<br>
+
 #### When Data Bias Gets Real - Feb 24, 2021
 
 * מה הסוגים הנפוצים של הטיות בניתוח נתונים 
