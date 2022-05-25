@@ -4,7 +4,7 @@ title: Events tracking
 author: shiran
 date: 2022-05-24 19:53:02
 intro_paragraph: מיפוי והגדרה של eventים
-image: ""
+image: uploads/event.jpg
 ---
 
 
