@@ -3,7 +3,7 @@ layout: post
 title: Events tracking
 author: shiran
 date: 2022-05-24 19:53:02
-intro_paragraph: מיפוי והגדרה של eventים
+intro_paragraph: והפעם נדבר על מיפוי והגדרה של eventים
 image: uploads/event.jpg
 categories: "#eventstracking"
 ---
